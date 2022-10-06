@@ -19,84 +19,23 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/trimstray" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/trimstray.svg?logo=twitter">
-  </a>
-</p>
-
-<div align="center">
-  <sub>Created by
-  <a href="https://twitter.com/trimstray">trimstray</a> and
-  <a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors">contributors</a>
-</div>
-
 <br>
 
 ****
 
 ## :notebook_with_decorative_cover: &nbsp;What is it?
 
-This repository is a collection of various materials and tools that I use every day in my work. It contains a lot of useful information gathered in one piece. It is an invaluable source of knowledge for me that I often look back on.
+This repository is a modified version of original repository from **trimstray/the-book-of-secret-knowledge** with few additional resources added.
 
 ## :restroom: &nbsp;For whom?
 
-For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards System and Network administrators, DevOps, Pentesters, and Security Researchers.
+For everyone, really. Here everyone can find their favourite tastes. But to be perfectly honest, it is aimed towards Pentesters, and Security Researchers.
 
-## :information_source: &nbsp;Contributing
-
-If you find something which doesn't make sense, or something doesn't seem right, please make a pull request and please add valid and well-reasoned explanations about your changes or comments.
-
-A few simple rules for this project:
-
-- inviting and clear
-- not tiring
-- useful
-
-These below rules may be better:
-
-- easy to contribute to (Markdown + HTML ...)
-- easy to find (simple TOC, maybe it's worth extending them?)
-
-Url marked **\*** is temporary unavailable. Please don't delete it without confirming that it has permanently expired.
-
-Before adding a pull request, please see the **[contributing guidelines](.github/CONTRIBUTING.md)**. You should also remember about this:
 
 ```diff
 + This repository is not meant to contain everything but only good quality stuff.
 ```
 
-All **suggestions/PR** are welcome!
-
-### Code Contributors
-
-This project exists thanks to all the people who contribute.
-
-<a href="https://github.com/trimstray/the-book-of-secret-knowledge/graphs/contributors"><img src="https://opencollective.com/the-book-of-secret-knowledge/contributors.svg?width=890&button=false"></a>
-
-### Financial Contributors
-
-<p align="left">
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/backers/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-  <a href="https://opencollective.com/the-book-of-secret-knowledge" alt="Financial Contributors on Open Collective">
-    <img src="https://img.shields.io/opencollective/sponsors/the-book-of-secret-knowledge?style=for-the-badge&color=FF4500&labelColor=A9A9A9"></a>
-  </a>
-</p>
-
-## :newspaper: &nbsp;RSS Feed & Updates
-
-GitHub exposes an [RSS/Atom](https://github.com/trimstray/the-book-of-secret-knowledge/commits.atom) feed of the commits, which may also be useful if you want to be kept informed about all changes.
-
-## :ballot_box_with_check: &nbsp;ToDo
-
-- [ ] Add new stuff...
-- [ ] Add useful shell functions
-- [ ] Add one-liners for collection tools (eg. CLI Tools)
-- [ ] Sort order in lists
-
-New items are also added on a regular basis.
 
 ## :anger: &nbsp;Table of Contents
 
@@ -4452,3 +4391,41 @@ shell> GetASN 1.1.1.1
 shell> GetASN 0.0.0.0
 Unsuccessful ASN gathering.
 ```
+
+#### YouTube channels
+1. Hak5 — General cybersecurity coverage : https://www.youtube.com/c/hak5.
+2. The XSS Rat — Everythug bounty hunting: https://www.youtube.com/c/TheXSSrat.
+3. ITProTV — General cybersecurity coverage: https://www.youtube.com/c/ItproTv. 
+4. Infosec Institute — Cybersecurity awareness: https://www.youtube.com/c/InfoSecInstitute.
+5. Cyrill Gössi — Extensive cryptography videos: https://www.youtube.com/channel/UCp1rLlh9AQN9Pejzbg9dcAg.
+6. DC CyberSec — Generic cybersecurity coverage: https://www.youtube.com/c/DCcybersec.
+7. Black Hat — Technical cybersecurity conferences: https://www.youtube.com/c/BlackHatOfficialYT/featured.
+8. David Bombal — Everything cybersecurity related: https://www.youtube.com/c/DavidBombal.
+9. Bugcrowd — Bug bounty methodology and interviews: https://www.youtube.com/c/Bugcrowd.
+10. Network Chuck — Everything cybersecurity related: https://www.youtube.com/c/NetworkChuck.
+11. Professor Messer — Guides covering certifications: https://www.youtube.com/c/professormesser.
+12. OWASP Foundation — Web-application security content:https://www.youtube.com/c/OWASPGLOBAL.
+13. Nahamsec — Educational hacking and bug bounty videos: https://www.youtube.com/c/Nahamsec.
+14. Computerphile — Covers basic concepts and techniques:https://www.youtube.com/user/Computerphile.
+15. InsiderPHD — How to get started with bug bounty hunting: https://www.youtube.com/c/InsiderPhD.
+16. Hack eXPlorer — General tutorials, tips, and techniques: https://www.youtube.com/c/HackeXPlorer.
+17. Cyber CDH — Cybersecurity tools, tactics and techniques: https://www.youtube.com/c/cybercdh.
+18. John Hammond — Malware analysis, programming, and careers: https://www.youtube.com/c/JohnHammond010
+19. 13Cubed — Videos on tools, forensics, and incident response: https://www.youtube.com/c/13cubed.
+20. HackerSploit — Penetration testing, web-application hacking: https://www.youtube.com/c/HackerSploit.
+21. Z-winK University — Bug bounty education and demonstrations: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ.
+22. IppSec — Labs and capture-the-flag tutorials, HackTheBox etc: https://www.youtube.com/c/ippsec.
+23. BlackPerl — Malware analysis, forensics and incident response: https://www.youtube.com/c/BlackPerl.
+24. Offensive Security — Educational content and lab walkthroughs: https://www.youtube.com/c/OffensiveSecurityTraining.
+25. Day Cyberwox — Useful cloud security content and walkthroughs: https://www.youtube.com/c/DayCyberwox.
+26. STÖK — Videos on tools, vulnerability analysis, and methodology: https://www.youtube.com/c/STOKfredrik.
+27. MalwareTechBlog — Cybersecurity and reverse engineering content: https://www.youtube.com/c/MalwareTechBlog.
+28. The Hated One — Research that explains cybersecurity conceptions: https://www.youtube.com/c/TheHatedOne.
+29. Black Hills Information Security — Everything cybersecurity related: https://www.youtube.com/c/BlackHillsInformationSecurity.
+30. The Cyber Mentor — Ethical hacking, web-application hacking, and tools: https://www.youtube.com/c/TheCyberMentor.
+31. Null Byte — Cybersecurity for ethical hackers, and computer scientists: https://www.youtube.com/c/NullByteWHT.
+32. LiveOverflow — Involves hacking, write-up videos, and https://www.youtube.com/c/LiveOverflow.
+33. The PC Security Channel — Windows security, malware news, and tutorials: https://www.youtube.com/c/thepcsecuritychannel.
+34. Gynvael - CTFs walkthrough: https://www.youtube.com/c/GynvaelEN
+35. Luv Johar Free IT Training Videos - ISO related tutorials: https://www.youtube.com/c/ISO27001ISMSTrainingVideos
+36. Tsoding daily - Programming: https://www.youtube.com/c/TsodingDaily
