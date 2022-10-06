@@ -56,6 +56,7 @@ Only main chapters:
 - **[Shell One-liners](#shell-one-liners-toc)**
 - **[Shell Tricks](#shell-tricks-toc)**
 - **[Shell Functions](#shell-functions-toc)**
+- **[YouTube Channels](https://github.com/ShrishailanSrinidhi/Cyber-Security-resource-list#youtube-channels)**
 
 ## :trident: &nbsp;The Book of Secret Knowledge (Chapters)
 
